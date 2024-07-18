@@ -1,0 +1,188 @@
+{
+  "products": [
+    {
+      "name": "Hydrating Face Cream",
+      "price": 1000,
+      "image": "images/hydrating-face-cream.jpg",
+      "id": "1"
+    },
+    {
+      "name": "Oil-Free Moisturizer",
+      "price": 499,
+      "image": "images/oil-free-moisturizer.jpeg",
+      "id": "2"
+    },
+    {
+      "name": "Nail polish",
+      "price": 250,
+      "image": "./images/nails.jpg",
+      "id": "3"
+    },
+    {
+      "name": "lightening cream",
+      "price": 799,
+      "image": "images/face-lightenind cream.jpg ",
+      "id": "4"
+    },
+    {
+      "id": "6d6b",
+      "name": "tcb relaxer",
+      "price": 250,
+      "skinType": "all",
+      "category": "hair",
+      "brand": "hair relaxer",
+      "description": "apply on hair",
+      "ingredients": "chemical",
+      "usage": "wear glove when applying on hair.",
+      "image": "./images/tcb for hair.jpeg",
+      "ratings": [
+        4,
+        5,
+        3
+      ],
+      "averageRating": 4
+    },
+    {
+      "id": "6d8f",
+      "name": "tcb relaxer",
+      "price": 250,
+      "skinType": "dry",
+      "category": "hair",
+      "brand": "hair relaxer",
+      "description": "relaxer",
+      "ingredients": "chemical",
+      "usage": "use gloves",
+      "image": "./images/tcb for hair.jpeg",
+      "ratings": [
+        4,
+        5,
+        3
+      ],
+      "averageRating": 4
+    },
+    {
+      "id": "3b53",
+      "name": "Nail polish",
+      "price": 250,
+      "skinType": "all",
+      "category": "polish",
+      "brand": "luron",
+      "description": "apply on nails",
+      "ingredients": "nails",
+      "usage": "olive",
+      "image": "./images/nails.jpg"
+    },
+    {
+      "id": "4b47",
+      "name": "Brightening Cream",
+      "price": 1500,
+      "skinType": "dry",
+      "category": "cream",
+      "brand": "moisturizer",
+      "description": "apply on face",
+      "ingredients": "olive oil",
+      "usage": "apply on face and neck",
+      "image": "./images/face-lightenind cream.jpg"
+    },
+    {
+      "id": "b7e9",
+      "name": "tcb relaxer",
+      "price": 250,
+      "skinType": "dry",
+      "category": "hair",
+      "brand": "hair relaxer",
+      "description": "hair",
+      "ingredients": "hair",
+      "usage": "hair",
+      "image": "./images/tcb for hair.jpeg"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "productId": 1,
+      "username": "Sarah89",
+      "rating": 5,
+      "comment": "This face cream is amazing! My dry skin feels so much better."
+    },
+    {
+      "id": "2",
+      "productId": 2,
+      "username": "Mike_T",
+      "rating": 4,
+      "comment": "Great moisturizer for my oily skin. Doesn't leave a greasy feeling."
+    },
+    {
+      "id": "1a71",
+      "productId": 5,
+      "username": "fayth",
+      "rating": 5,
+      "comment": "nice products"
+    },
+    {
+      "id": "4443",
+      "productId": 1,
+      "username": "fayth",
+      "rating": 5,
+      "comment": "nice"
+    },
+    {
+      "id": "2aee",
+      "productId": 1,
+      "username": "fayth",
+      "rating": null,
+      "comment": "nice products"
+    },
+    {
+      "id": "8339",
+      "productId": 2,
+      "username": "fayth",
+      "rating": null,
+      "comment": "nice"
+    },
+    {
+      "id": "c6a0",
+      "productId": 3,
+      "username": "fayth",
+      "rating": null,
+      "comment": "good"
+    },
+    {
+      "id": "73ce",
+      "productId": 3,
+      "username": "fayth",
+      "rating": null,
+      "comment": "good"
+    },
+    {
+      "id": "9ed2",
+      "productId": 3,
+      "username": "andrew",
+      "rating": null,
+      "comment": "nice"
+    },
+    {
+      "id": "1931",
+      "productId": 1,
+      "username": "fayth",
+      "rating": null,
+      "comment": "nice"
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": "1",
+      "title": "5 Tips for Healthy Skin",
+      "author": "Dr. Emma Kibet",
+      "date": "2024-07-10",
+      "content": "Maintaining healthy skin is crucial for overall well-being. Here are 5 tips to keep your skin glowing: 1. Stay hydrated..2. use moisturizer 3.eat balance diet  4. dont drink alcohol 5.do a lot of exercise"
+    },
+    {
+      "id": "2",
+      "title": "Understanding Your Skin Type",
+      "author": "Lisa Chep, Esthetician",
+      "date": "2024-07-12",
+      "content": "Knowing your skin type is the first step in creating an effective skincare routine. There are five main skin types..."
+    }
+  ]
+}
