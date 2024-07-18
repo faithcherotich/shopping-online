@@ -95,6 +95,18 @@
       "ingredients": "hair",
       "usage": "hair",
       "image": "./images/tcb for hair.jpeg"
+    },
+    {
+      "id": "b716",
+      "name": "skin brigtheni cream",
+      "price": 500,
+      "skinType": "all",
+      "category": "cream",
+      "brand": "moisturizer",
+      "description": "apply on face",
+      "ingredients": "sunflower",
+      "usage": "apply twice a day",
+      "image": "images/reduce dark-spots_.jpg"
     }
   ],
   "reviews": [
@@ -167,6 +179,13 @@
       "username": "fayth",
       "rating": null,
       "comment": "nice"
+    },
+    {
+      "id": "3ff1",
+      "productId": 1,
+      "username": "fayth",
+      "rating": null,
+      "comment": "good"
     }
   ],
   "blogPosts": [
