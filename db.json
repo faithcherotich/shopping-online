@@ -2,27 +2,15 @@
   "products": [
     {
       "name": "Hydrating Face Cream",
-      "price": 1000,
+      "price": 900,
       "image": "images/hydrating-face-cream.jpg",
       "id": "1"
     },
     {
-      "name": "Oil-Free Moisturizer",
-      "price": 499,
-      "image": "images/oil-free-moisturizer.jpeg",
+      "name": "Makari Cream",
+      "price": 1500,
+      "image": "./images/Makari Multi cream.jpg.webp",
       "id": "2"
-    },
-    {
-      "name": "Nail polish",
-      "price": 250,
-      "image": "./images/nails.jpg",
-      "id": "3"
-    },
-    {
-      "name": "lightening cream",
-      "price": 799,
-      "image": "images/face-lightenind cream.jpg ",
-      "id": "4"
     },
     {
       "id": "6d6b",
@@ -183,6 +171,20 @@
     {
       "id": "3ff1",
       "productId": 1,
+      "username": "fayth",
+      "rating": null,
+      "comment": "good"
+    },
+    {
+      "id": "1f65",
+      "productId": 6,
+      "username": "fayth",
+      "rating": null,
+      "comment": "good"
+    },
+    {
+      "id": "08ea",
+      "productId": 6,
       "username": "fayth",
       "rating": null,
       "comment": "good"
